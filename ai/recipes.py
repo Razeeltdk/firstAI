@@ -1,5 +1,5 @@
 import pandas as pd
-
+# The Ingredients column contains comma-separated values, that will be preprocessed
 # Define the data
 data = {
     "Recipe Name": [
